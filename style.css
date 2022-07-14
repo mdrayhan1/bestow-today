@@ -1,0 +1,22 @@
+body{
+    font-family: 'Ibarra Real Nova', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 40px;
+}
+.green-colour{
+    color: rgb(33, 153, 33);
+}
+.white-colour{
+color: rgb(205, 125, 50);
+}
+.link-button{
+    text-decoration: none;
+background-image: linear-gradient(blue, red);
+    color: #ff00d4;
+   font-weight: 700;
+   padding: 8px 38px;
+   border-radius: 5px;
+}
